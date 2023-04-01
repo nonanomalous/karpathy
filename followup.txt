@@ -1,0 +1,4 @@
+torch broadcasting
+wiki: maximum liklihood
+wolfram log(x) from 0 to 1 is monotonic transformation of probability
+tuts on softmax? → logits / log-counts
